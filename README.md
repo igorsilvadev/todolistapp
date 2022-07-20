@@ -5,5 +5,5 @@ Projeto com Tests Unitários aplicados no Core Data, Continuous Integration e Co
 # Video Tutorial
  - [Como criar Continuous Integration e Continuous Deployment para projetos iOS com Github Actions](https://www.youtube.com/watch?v=v32ldDafgAs)
  
- #Gist 
+# Gist 
   - [Gist com comandos](gist.github.com/igorsilvadev)
